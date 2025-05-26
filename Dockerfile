@@ -1,3 +1,3 @@
-FROM camunda/camunda-bpm-platform:run-latest:tomcat-7.20.0
+FROM camunda/camunda-bpm-platform:run-latest
 EXPOSE 8080
 
